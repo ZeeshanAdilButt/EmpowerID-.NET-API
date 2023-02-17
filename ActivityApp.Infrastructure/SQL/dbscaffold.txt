@@ -1,0 +1,1 @@
+﻿ scaffold-dbcontext "{connection string here};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"    -Context ybrContext  -Provider Microsoft.EntityFrameworkCore.SqlServer -Force  -OutputDir Data
